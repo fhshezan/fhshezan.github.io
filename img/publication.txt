@@ -1,0 +1,172 @@
+@inproceedings{ahmed2016privacy,
+  title={Privacy in repair: An analysis of the privacy challenges surrounding broken digital artifacts in bangladesh},
+  author={Ahmed, Syed Ishtiaque and Guha, Shion and Rifat, Md Rashidujjaman and Shezan, Faysal Hossain and Dell, Nicola},
+  booktitle={Proceedings of the Eighth International Conference on Information and Communication Technologies and Development},
+  pages={1--10},
+  year={2016}
+}
+
+@inproceedings{rahman2015development,
+  title={The development of low cost exercise monitoring device for paralytic},
+  author={Rahman, Shah Saifur and Nusaka, Sayera Sun-um and Shezan, F Hossain and Sarkar, MA Rashid},
+  booktitle={2015 IEEE International WIE Conference on Electrical and Computer Engineering (WIECON-ECE)},
+  pages={530--533},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{islam2016high,
+  title={High Performance Approximate Computing by Adaptive Relaxed Synchronization},
+  author={Islam, Bashima and Shezan, Faysal Hossain and Shahriyar, Rifat},
+  booktitle={2016 IEEE 18th International Conference on High Performance Computing and Communications; IEEE 14th International Conference on Smart City; IEEE 2nd International Conference on Data Science and Systems (HPCC/SmartCity/DSS)},
+  pages={1204--1210},
+  year={2016},
+  organization={IEEE}
+}
+
+@article{ahmed2017ictd,
+  title={ICTD 2016| Privacy in Repair: An Analysis of the Privacy Challenges Surrounding Broken Digital Artifacts in Bangladesh},
+  author={Ahmed, Syed Ishtiaque and Guha, Shion and Rifat, Md Rashidujjaman and Shezan, Faysal Hossain and Dell, Nicola},
+  journal={Information Technologies \& International Development},
+  volume={13},
+  pages={14},
+  year={2017}
+}
+
+@techreport{rahman2019categorizing,
+  title={Categorizing defects in infrastructure as code},
+  author={Rahman, Akond and Elder, Sarah and Shezan, Faysal Hossain and Frost, Vanessa and Stallings, Jonathan and Williams, Laurie Ann},
+  year={2019},
+  institution={North Carolina State University. Dept. of Computer Science}
+}
+
+@article{guha2017privacy,
+  title={Privacy vulnerabilities in the practices of repairing broken digital artifacts in Bangladesh},
+  author={Guha, Shion and Rifat, Mohammad Rashidujjaman and Shezan, Faysal Hossain and Dell, Nicola and others},
+  journal={Information Technologies and International Development},
+  year={2017},
+  publisher={University of Southern California}
+}
+
+@inproceedings{shezan2017vulnerability,
+  title={Vulnerability detection in recent Android apps: An empirical study},
+  author={Shezan, Faysal Hossain and Afroze, Syeda Farzia and Iqbal, Anindya},
+  booktitle={2017 International Conference on Networking, Systems and Security (NSysS)},
+  pages={55--63},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{afroze2017poster,
+  title={Poster: HeartFit: an intuitive smartphone application for well-being of hypertensive patients},
+  author={Afroze, Syeda Farzia and Shezan, Faysal Hossain and Sharmin, Sadia},
+  booktitle={Proceedings of the 15th annual international conference on mobile systems, applications, and services},
+  pages={164--164},
+  year={2017}
+}
+
+@article{rahman2018bugs,
+  title={Bugs in infrastructure as code},
+  author={Rahman, Akond and Elder, Sarah and Shezan, Faysal Hossain and Frost, Vanessa and Stallings, Jonathan and Williams, Laurie},
+  journal={arXiv preprint arXiv:1809.07937},
+  year={2018}
+}
+
+@inproceedings{liu2019side,
+  title={Side channel attacks in computation offloading systems with gpu virtualization},
+  author={Liu, Sihang and Wei, Yizhou and Chi, Jianfeng and Shezan, Faysal Hossain and Tian, Yuan},
+  booktitle={2019 IEEE Security and Privacy Workshops (SPW)},
+  pages={156--161},
+  year={2019},
+  organization={IEEE}
+}
+
+@inproceedings{shezan2020tkperm,
+  title={TKPERM: cross-platform permission knowledge transfer to detect overprivileged third-party applications},
+  author={Shezan, Faysal Hossain and Cheng, Kaiming and Zhang, Zhen and Cao, Yinzhi and Tian, Yuan},
+  booktitle={Network and Distributed Systems Security (NDSS) Symposium},
+  year={2020}
+}
+
+@inproceedings{shezan2020read,
+  title={Read between the lines: An empirical measurement of sensitive applications of voice personal assistant systems},
+  author={Shezan, Faysal Hossain and Hu, Hang and Wang, Jiamin and Wang, Gang and Tian, Yuan},
+  booktitle={Proceedings of the Web Conference 2020},
+  pages={1006--1017},
+  year={2020}
+}
+
+@article{lee2020using,
+  title={Using sonar for liveness detection to protect smart speakers against remote attackers},
+  author={Lee, Yeonjoon and Zhao, Yue and Zeng, Jiutian and Lee, Kwangwuk and Zhang, Nan and Shezan, Faysal Hossain and Tian, Yuan and Chen, Kai and Wang, XiaoFeng},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={4},
+  number={1},
+  pages={1--28},
+  year={2020},
+  publisher={ACM New York, NY, USA}
+}
+
+@inproceedings{yu2019detecting,
+  title={Detecting abnormal behaviors in smart home},
+  author={Yu, Yonghua and Li, Changyang and Jonas, Mainuddin Ahmad and Ma, Chuanhao and Shezan, Faysal Hossain and Shen, Siyuan and Gao, Peng and Tian, Yuan},
+  booktitle={2019 IEEE 16th International Conference on Mobile Ad Hoc and Sensor Systems Workshops (MASSW)},
+  pages={37--42},
+  year={2019},
+  organization={IEEE}
+}
+
+@article{shezan2020verhealth,
+  title={Verhealth: Vetting medical voice applications through policy enforcement},
+  author={Shezan, Faysal Hossain and Hu, Hang and Wang, Gang and Tian, Yuan},
+  journal={Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies},
+  volume={4},
+  number={4},
+  pages={1--21},
+  year={2020},
+  publisher={ACM New York, NY, USA}
+}
+
+@article{mccall2021safetap,
+  title={SAFETAP: An Efficient Incremental Analyzer for Trigger-Action Programs},
+  author={McCall, McKenna and Shezan, Faysal Hossain and Bichhawat, Abhishek and Cobb, Camille and Jia, Limin and Tian, Yuan and Grace, Cooper and Yang, Mitchell},
+  year={2021},
+  publisher={Carnegie Mellon University}
+}
+
+@article{su2022perception,
+  title={Perception Hacking for 2D Cursorjacking in Virtual Reality},
+  author={Su, Zihao and Shezan, Faysal Hossain and Tian, Yuan and Evans, David and Heo, Seongkook},
+  year={2022}
+}
+
+@article{shezan2022nl2gdpr,
+  title={NL2GDPR: Automatically Develop GDPR Compliant Android Application Features from Natural Language},
+  author={Shezan, Faysal Hossain and Lao, Yingjie and Peng, Minlong and Wang, Xin and Sun, Mingming and Li, Ping},
+  journal={arXiv preprint arXiv:2208.13361},
+  year={2022}
+}
+
+@inproceedings{shezan2023chkplug,
+  title={CHKPLUG: Checking GDPR Compliance of WordPress Plugins via Cross-language Code Property Graph.},
+  author={Shezan, Faysal Hossain and Su, Zihao and Kang, Mingqing and Phair, Nicholas and Thomas, Patrick William and van Dam, Michelangelo and Cao, Yinzhi and Tian, Yuan},
+  booktitle={NDSS},
+  year={2023}
+}
+
+@article{shezan2023senrev,
+  title={SenRev: Measurement of Personal Information Disclosure in Online Health Communities},
+  author={Shezan, Faysal Hossain and Long, Minjun and Hasani, David and Wang, Gang and Tian, Yuan},
+  journal={Proceedings on Privacy Enhancing Technologies},
+  volume={3},
+  pages={233--251},
+  year={2023}
+}
+
+@inproceedings{mccall2023towards,
+  title={Towards Usable Security Analysis Tools for $\{$Trigger-Action$\}$ Programming},
+  author={McCall, McKenna and Zeng, Eric and Shezan, Faysal Hossain and Yang, Mitchell and Bauer, Lujo and Bichhawat, Abhishek and Cobb, Camille and Jia, Limin and Tian, Yuan},
+  booktitle={Nineteenth Symposium on Usable Privacy and Security (SOUPS 2023)},
+  pages={301--320},
+  year={2023}
+}
